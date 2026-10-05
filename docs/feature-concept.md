@@ -266,7 +266,7 @@ Get an entertainment lawyer's read before launching any fundraising campaign.
 - [ ] Who is the stranger, and how much of them does the audience ever see?
 - [ ] Which obstacles make the final cut? Target 6–8 for a feature.
 - [ ] Which detours get a "nothing was wasted" payoff in the credits?
-- [ ] House style: develop reference frames and a style bible (`docs/style-bible.md`)
+- [ ] House style: develop reference frames based on [`style-bible.md`](style-bible.md)
 - [ ] Which short is the first to move into the house style?
 - [ ] Rights path: original stand-ins, public domain or licensing?
 - [ ] Which scene becomes the proof-of-concept?
